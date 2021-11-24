@@ -13,6 +13,9 @@ __pycache__/
 
 .vscode/
 *.code-workspace
+.history/
+
+.mypy_cache
 
 # C extensions
 *.so
